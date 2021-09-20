@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Acme", sans-serif;
+}
+.last {
+  border: 3px solid;
+  padding: 8px;
+  border-radius: 8px;
+  margin-right: 40px;
+}
+li {
+  list-style: none;
+  padding: 3px;
+}
+button {
+  margin: 3px;
+  border-radius: 8px;
+  background-color: black;
+  color: #5c6cb2;
+  border: 2px solid;
+  padding: 7px;
+  width: 150px;
+}
+button:hover {
+  background-color: black;
+  color: white;
+}
+nav {
+  background-color: black;
+  color: white;
+  margin: 0px;
+  padding-bottom: 10px;
+}
+h1 {
+  margin: 0px;
+}
+footer {
+  background-color: black;
+  color: white;
+  margin-top: 440px;
+}
+.foot-link {
+  display: inline;
+  margin-right: 20px;
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: cyan;
+}
